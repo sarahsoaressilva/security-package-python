@@ -26,7 +26,7 @@ The package security_package is used to:
 
 ## Installation
 
-This repository supposed to be a package to PyPI. Although, it has parts of code made by the classes of the instructor Bruno Dias. To maintain his credits, this repository will not be launched to PyPI.
+This repository supposed to be a package to PyPI. However, it has parts of code made by the classes of the instructor Bruno Dias. To maintain his credits, this repository will not be launched to PyPI.
 
 ## Usage
 
